@@ -1,4 +1,7 @@
 {
+  "name": "study-06-chap8-shoppinglist",
+  "version": "1.0.0",
+  "description": "Supabase와 연동된 쇼핑 리스트 앱",
   "dependencies": {
     "@supabase/supabase-js": "^2.105.1",
     "pptxgenjs": "^4.0.1"
