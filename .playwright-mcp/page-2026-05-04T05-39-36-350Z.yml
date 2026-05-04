@@ -1,0 +1,7 @@
+- generic [ref=e2]:
+  - heading "🛒 쇼핑 리스트" [level=1] [ref=e3]
+  - generic [ref=e4]:
+    - textbox "새로운 아이템 입력..." [ref=e5]
+    - button "추가" [ref=e6] [cursor=pointer]
+  - list [ref=e7]:
+    - generic [ref=e81]: 아이템을 추가해보세요!

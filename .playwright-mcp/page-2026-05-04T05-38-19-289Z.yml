@@ -1,0 +1,18 @@
+- generic [ref=e2]:
+  - heading "🛒 쇼핑 리스트" [level=1] [ref=e3]
+  - generic [ref=e4]:
+    - textbox "새로운 아이템 입력..." [active] [ref=e5]
+    - button "추가" [ref=e6] [cursor=pointer]
+  - list [ref=e7]:
+    - listitem [ref=e29]:
+      - checkbox [checked] [ref=e30] [cursor=pointer]
+      - generic [ref=e31]: 우유
+      - button "삭제" [ref=e32] [cursor=pointer]
+    - listitem [ref=e33]:
+      - checkbox [ref=e34] [cursor=pointer]
+      - generic [ref=e35]: 빵
+      - button "삭제" [ref=e36] [cursor=pointer]
+    - listitem [ref=e37]:
+      - checkbox [ref=e38] [cursor=pointer]
+      - generic [ref=e39]: 계란
+      - button "삭제" [ref=e40] [cursor=pointer]
